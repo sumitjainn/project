@@ -1,0 +1,7 @@
+.tempFile
+temp
+*.swp~
+target
+test/*.txt
+!test/master.txt
+
