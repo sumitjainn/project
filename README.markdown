@@ -1,4 +1,4 @@
-# Git Essentials (Tutsplus course)
+# Git Essentials
 
 Hey, there! This is the readme file for my test project
 
